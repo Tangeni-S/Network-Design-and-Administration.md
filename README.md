@@ -1,2 +1,2 @@
-# Network-Design-and-Administration.md
+# Network-Design-and-Administration
 This repository consists of labs relating to the designing and configuring of networks using the proprietary software by Cisco, Packet Tracer. 
